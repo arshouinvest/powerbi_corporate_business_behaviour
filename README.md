@@ -17,4 +17,4 @@ Step 4： Calculate the Useful data in Power BI including : <br>
 <h3>Dashborad Function</h3>
 <li>For user easy handling , all charts can be hovered will be highlight the useful data </li>
 
-<img src="https://github.com/arshouinvest/corporate_analysis/blob/main/dashboard.png">
+<img src="https://github.com/arshouinvest/powerbi_corporate_business_behaviour/blob/main/image.png">
